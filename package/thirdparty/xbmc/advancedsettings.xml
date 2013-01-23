@@ -1,5 +1,5 @@
 <advancedsettings>
-  <enablenetworkmanager>1</enablenetworkmanager>
+  <enablenetworkmanager>0</enablenetworkmanager>
   <showexitbutton>false</showexitbutton>
 
   <hidesettings>
