@@ -1,5 +1,6 @@
 <advancedsettings>
   <enablenetworkmanager>0</enablenetworkmanager>
+  <loglevel hide="false">2</loglevel>
   <showexitbutton>false</showexitbutton>
 
   <hidesettings>
